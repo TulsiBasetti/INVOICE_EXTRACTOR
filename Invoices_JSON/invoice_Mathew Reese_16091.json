@@ -1,0 +1,25 @@
+{
+  "invoice_number": "16091",
+  "invoice_date": "Sep 05 2012",
+  "vendor_name": "SuperStore",
+  "customer_name": "Mathew Reese",
+  "currency": "USD",
+  "line_items": [
+    {
+      "description": "Logitech Keyboard, Programmable",
+      "quantity_or_duration": "9",
+      "rate": 665.55,
+      "amount": 5989.95
+    },
+    {
+      "description": "Accessories, Technology, TEC-AC-5117",
+      "quantity_or_duration": null,
+      "rate": null,
+      "amount": 119.17
+    }
+  ],
+  "subtotal": 5989.95,
+  "discount": null,
+  "shipping": 119.17,
+  "total": 6109.12
+}

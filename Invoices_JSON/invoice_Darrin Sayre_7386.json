@@ -1,0 +1,19 @@
+{
+  "invoice_number": "7386",
+  "invoice_date": "Oct 13 2012",
+  "vendor_name": "SuperStore",
+  "customer_name": "Darrin Sayre",
+  "currency": "$",
+  "line_items": [
+    {
+      "description": "Nokia Smart Phone, Full Size",
+      "quantity_or_duration": "6",
+      "rate": 2544.24,
+      "amount": 15265.44
+    }
+  ],
+  "subtotal": 15265.44,
+  "discount": null,
+  "shipping": 85.87,
+  "total": 15351.31
+}

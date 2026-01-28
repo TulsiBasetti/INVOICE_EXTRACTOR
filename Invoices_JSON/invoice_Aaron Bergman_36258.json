@@ -1,0 +1,25 @@
+{
+  "invoice_number": "36258",
+  "invoice_date": "Mar 06 2012",
+  "vendor_name": "SuperStore",
+  "customer_name": "Aaron Bergman",
+  "currency": "$",
+  "line_items": [
+    {
+      "description": "Global Push Button Manager's Chair, Indigo",
+      "quantity_or_duration": "1",
+      "rate": 48.71,
+      "amount": 48.71
+    },
+    {
+      "description": "Chairs, Furniture, FUR-CH-4421",
+      "quantity_or_duration": null,
+      "rate": null,
+      "amount": 9.74
+    }
+  ],
+  "subtotal": 48.71,
+  "discount": 11.13,
+  "shipping": 9.74,
+  "total": 50.1
+}

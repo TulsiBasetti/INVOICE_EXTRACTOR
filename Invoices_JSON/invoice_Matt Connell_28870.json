@@ -1,0 +1,19 @@
+{
+  "invoice_number": "28870",
+  "invoice_date": "Dec 11 2012",
+  "vendor_name": "SuperStore",
+  "customer_name": "Matt Connell",
+  "currency": "$",
+  "line_items": [
+    {
+      "description": "Bush Classic Bookcase, Metal",
+      "quantity_or_duration": "3",
+      "rate": 1112.78,
+      "amount": 3338.33
+    }
+  ],
+  "subtotal": 3338.33,
+  "discount": 333.83,
+  "shipping": 106.29,
+  "total": 3110.79
+}
