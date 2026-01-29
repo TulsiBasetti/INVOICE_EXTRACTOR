@@ -44,7 +44,10 @@ Return JSON with the schema :
     "customer_name": string | null,
     "currency": string | null,
     "line_items": [
-        {{   "description": string | null,
+        {{  "product_name": string | null,
+            "sub-category": string | null,
+            "category": string | null,
+            "product_id" : string | null,
             "quantity_or_duration": string | null,
             "rate": number | null,
             "amount": number | null
@@ -91,15 +94,3 @@ for pdf_file in pdf_files:
     
     print(f"Processed {pdf_file} -> {json_file}")
     
-# if __name__ == "__main__":
-
-#     if len(sys.argv) != 2:
-#         sys.exit(1)
-
-#     pdf_path = sys.argv[1]
-
-#     invoice_text = text_extraction_from_pdf(pdf_path)
-
-#     invoice_data = extract_invoice(invoice_text)
-
-#     print(json.dumps(invoice_data, indent=2))

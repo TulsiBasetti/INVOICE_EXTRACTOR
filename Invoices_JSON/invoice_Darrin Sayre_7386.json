@@ -6,7 +6,10 @@
   "currency": "$",
   "line_items": [
     {
-      "description": "Nokia Smart Phone, Full Size",
+      "product_name": "Nokia Smart Phone, Full Size",
+      "sub-category": "Phones",
+      "category": "Technology",
+      "product_id": "TEC-PH-5355",
       "quantity_or_duration": "6",
       "rate": 2544.24,
       "amount": 15265.44

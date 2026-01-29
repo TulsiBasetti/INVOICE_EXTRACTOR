@@ -6,7 +6,10 @@
   "currency": "$",
   "line_items": [
     {
-      "description": "Bush Classic Bookcase, Metal",
+      "product_name": "Bush Classic Bookcase, Metal",
+      "sub-category": "Furniture",
+      "category": null,
+      "product_id": "FUR-BO-3624",
       "quantity_or_duration": "3",
       "rate": 1112.78,
       "amount": 3338.33

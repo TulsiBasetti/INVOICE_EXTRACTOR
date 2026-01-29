@@ -6,7 +6,10 @@
   "currency": "USD",
   "line_items": [
     {
-      "description": "Ikea Classic Bookcase, Traditional",
+      "product_name": "Ikea Classic Bookcase, Traditional",
+      "sub-category": "Bookcases",
+      "category": "Furniture",
+      "product_id": "FUR-BO-4851",
       "quantity_or_duration": "5",
       "rate": 1029.38,
       "amount": 5146.88
